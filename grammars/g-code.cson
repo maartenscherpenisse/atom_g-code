@@ -4,6 +4,7 @@
 ]
 'scopeName': 'source.g-code'
 'name': 'G-Code'
+'fileTypes': ['gcode']
 'patterns': [
   {
     'match': '(^[nN][0-9]+|;.*)'
